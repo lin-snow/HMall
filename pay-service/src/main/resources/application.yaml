@@ -1,0 +1,17 @@
+server:
+  port: 8086
+
+feign:
+  okhttp:
+    enabled: true # 开启OKHttp功能
+
+hm:
+  swagger:
+    title: 付款服务接口文档
+    package: com.hmall.pay.controller
+  db:
+    host: localhost
+    port: 33306
+    database: hm-pay
+    un: root
+    pw: 123456
