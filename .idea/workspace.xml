@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="E:\apache-maven-3.9.9" />
+        <option name="localRepository" value="C:\Users\LinSnow\.m2\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="C:\Users\LinSnow\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1736672605814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736672605814</updated>
+      <workItem from="1736672606871" duration="29000" />
+    </task>
+    <servers />
+  </component>
+</project>
