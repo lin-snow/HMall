@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8578ef7-3858-4eba-95ac-516e549063b0" name="更改" comment="网关微服务">
-      <changelist_data name="L1nSn0w" email="l1nsn0w@qq.com" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d8578ef7-3858-4eba-95ac-516e549063b0" name="更改" comment="emmmm">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736672605814</updated>
       <workItem from="1736672606871" duration="29000" />
-      <workItem from="1739712239709" duration="349000" />
+      <workItem from="1739712239709" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="单体架构">
       <option name="closed" value="true" />
@@ -182,7 +177,79 @@
       <option name="project" value="LOCAL" />
       <updated>1739712349397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="单体架构">
+      <option name="closed" value="true" />
+      <created>1739712685048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712685048</updated>
+    </task>
+    <task id="LOCAL-00004" summary="通用模块">
+      <option name="closed" value="true" />
+      <created>1739712706418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712706418</updated>
+    </task>
+    <task id="LOCAL-00005" summary="API模块">
+      <option name="closed" value="true" />
+      <created>1739712719770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712719770</updated>
+    </task>
+    <task id="LOCAL-00006" summary="购物车微服务">
+      <option name="closed" value="true" />
+      <created>1739712753744</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712753744</updated>
+    </task>
+    <task id="LOCAL-00007" summary="商品微服务">
+      <option name="closed" value="true" />
+      <created>1739712765076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712765076</updated>
+    </task>
+    <task id="LOCAL-00008" summary="订单微服务">
+      <option name="closed" value="true" />
+      <created>1739712781287</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712781287</updated>
+    </task>
+    <task id="LOCAL-00009" summary="交易微服务">
+      <option name="closed" value="true" />
+      <created>1739712794211</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712794211</updated>
+    </task>
+    <task id="LOCAL-00010" summary="用户微服务">
+      <option name="closed" value="true" />
+      <created>1739712810068</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712810068</updated>
+    </task>
+    <task id="LOCAL-00011" summary="emmmm">
+      <option name="closed" value="true" />
+      <created>1739712826817</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739712826817</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,8 +267,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="单体架构" />
     <MESSAGE value="网关微服务" />
-    <option name="LAST_COMMIT_MESSAGE" value="网关微服务" />
+    <MESSAGE value="单体架构" />
+    <MESSAGE value="通用模块" />
+    <MESSAGE value="API模块" />
+    <MESSAGE value="购物车微服务" />
+    <MESSAGE value="商品微服务" />
+    <MESSAGE value="订单微服务" />
+    <MESSAGE value="交易微服务" />
+    <MESSAGE value="用户微服务" />
+    <MESSAGE value="emmmm" />
+    <option name="LAST_COMMIT_MESSAGE" value="emmmm" />
   </component>
 </project>
